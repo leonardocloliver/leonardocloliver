@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardocloliver
-- 👀 I’m interested in Full stack development with Java/JavaScript
-- 💞️ I’m looking to collaborate on fun Java/JS projects
+- 👀 I’m interested in Back-end development with Java/Python
+- 💞️ I’m looking to collaborate on fun Java/Python projects
 - 📫 Check out my [LinkedIn](https://linkedin.com/in/leonardo-de-oliveira-coelho-236418229)
 
 <!---
