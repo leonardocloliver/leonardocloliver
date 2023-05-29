@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @leonardocloliver
 - 👀 I’m interested in Back-end development with Java/Python
+- 👀 I’m interested in all technologies and methods involving Software Enginnering
 - 💞️ I’m looking to collaborate on fun Java/Python projects
 
 <!---
